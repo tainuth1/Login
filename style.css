@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #dddddd;
+    background-color: #ff0000;
 }
 .form {
   display: flex;
